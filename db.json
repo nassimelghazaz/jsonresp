@@ -12,6 +12,33 @@
       "todo": [
         15
       ]
+    },
+    {
+      "type": "remplacer",
+      "todo": [
+        5,
+        14
+      ]
+    },
+    {
+      "type": "remplacer",
+      "todo": [
+        10,
+        1
+      ]
+    },
+    {
+      "type": "remplacer",
+      "todo": [
+        12,
+        7
+      ]
+    },
+    {
+      "type": "envoyer",
+      "todo": [
+        39
+      ]
     }
   ]
 }
