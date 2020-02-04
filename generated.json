@@ -1,0 +1,17 @@
+{
+  "taches": [
+    {
+      "type": "remplacer",
+      "todo": [
+        3,
+        2
+      ]
+    },
+    {
+      "type": "envoyer",
+      "todo": [
+        15
+      ]
+    }
+  ]
+}
